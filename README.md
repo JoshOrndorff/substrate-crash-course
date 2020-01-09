@@ -47,4 +47,4 @@ If you find mistakes or opportunities to add relevant information, issues and pu
 
 ## Let's Go Already!
 
-IF you're reading this on github, you'll want to go to the hosted version (TODO link). Navigate with the sidebar.
+IF you're reading this on github, you'll want to go to the [hosted version](https://joshorndorff.github.io/substrate-crash-course/#/). Navigate with the sidebar.
