@@ -25,7 +25,6 @@ Anyone is welcome to use this material to learn about the Substrate blockchain f
 * I understand closures in javascript
 * I have opinions about flow, typescript, and dynamic typing
 
-
 ## What You Will Learn
 
 You will learn
@@ -40,6 +39,14 @@ You will not learn advanced features of Substrate, but don't worry, there are pl
 * Smart Contracts or ink!
 
 Many learners will want to complete the course, but it is also possible to learn a subset of the knowledge that is particularly relevant to your goals as a Substrate developer.
+
+## What You Should Know Already
+
+This course assumes that you are familiar with some standard development tools.
+* A shell or command line
+* A text editor or IDE
+* Compiling and executing software
+* Some basic blockchain principles
 
 
 ## Contributing
