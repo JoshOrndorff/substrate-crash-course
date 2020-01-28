@@ -48,6 +48,12 @@ This course assumes that you are familiar with some standard development tools.
 * Compiling and executing software
 * Some basic blockchain principles
 
+## Getting Help
+If you have any problems with this course please:
+
+* Open a [github issue](https://github.com/JoshOrndorff/substrate-crash-course/issues)
+* Join the [Substrate Technical Chat](https://riot.im/app/#/room/!HzySYSaIhtyWrwiwEV:matrix.org)
+* Send an email to joshy@parity.io
 
 ## Contributing
 If you find mistakes or opportunities to add relevant information, issues and pull requests are welcome.
