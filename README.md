@@ -1,6 +1,6 @@
 # Substrate Crash Course
 
-This Crash Course is designed to teach the most important and useful aspects of developing with Substrate, Parity's framework for rapid blockchain development. It presents the material in a structured manner to get developers productive quickly and to avoid the cost of finding relevant documentation and tutorials. In references existing documentation and tutorials along the way. This course is not designed to teach everything there is to know about Substrate, but to get developers to a point where they can navigate the more detailed documentation on their own.
+This Crash Course is designed to teach the most useful aspects of developing with Substrate, Parity's framework for rapid blockchain development. It presents the material in a structured manner to get developers productive quickly and to avoid the cost of searching all documentation and tutorials before beginning to code. It references existing documentation and tutorials along the way. This course is not designed to teach everything there is to know about Substrate, but to get developers to a point where they can navigate the more detailed documentation on their own.
 
 ## Target Personas
 
@@ -28,9 +28,7 @@ Anyone is welcome to use this material to learn about the Substrate blockchain f
 
 ## What You Will Learn
 
-Many learners will want to complete the course, but it is also possible to learn a subset of the knowledge that is particularly relevant to your goals as a Substrate developer.
-
-If you complete the course, you will learn
+You will learn
 * to operate Substrate nodes
 * to interact with a Substrate based blockchain
 * to write a blockchain runtime that supports your dApp's on-chain logic
@@ -41,10 +39,12 @@ You will not learn advanced features of Substrate, but don't worry, there are pl
 * Custom RPCs
 * Smart Contracts or ink!
 
+Many learners will want to complete the course, but it is also possible to learn a subset of the knowledge that is particularly relevant to your goals as a Substrate developer.
+
 
 ## Contributing
 If you find mistakes or opportunities to add relevant information, issues and pull requests are welcome.
 
 ## Let's Go Already!
 
-IF you're reading this on github, you'll want to go to the [hosted version](https://joshorndorff.github.io/substrate-crash-course/#/). Navigate with the sidebar.
+If you're reading this on github, you'll want to go to the [hosted version](https://joshorndorff.github.io/substrate-crash-course/#/). Navigate with the sidebar.
